@@ -20,9 +20,10 @@ License: CC0
 Author: Clint Bellanger
 http://opengameart.org/content/boxy-bold-truetype-font
 
-Linkback to images per usage license:
-clipartlord.com/free-cute-cartoon-grim-reaper-clip-art
-clipartlord.com/free-cute-count-dracula-clip-art
-clipartlord.com/free-cartoon-zombie-clip-art-5
-clipartlord.com/free-frankenstein-clip-art
+Linkback to images per usage license:  
+clipartlord.com/free-cute-cartoon-grim-reaper-clip-art  
+clipartlord.com/free-cute-count-dracula-clip-art  
+clipartlord.com/free-cartoon-zombie-clip-art-5  
+clipartlord.com/free-frankenstein-clip-art  
+
 

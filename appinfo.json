@@ -1,0 +1,60 @@
+{
+    "uuid": "b8e16f86-3b5d-49ec-8b92-ee1044efcfc9",
+    "shortName": "Halloween",
+    "longName": "Halloween Time",
+    "companyName": "nicetux",
+    "versionLabel": "1.0",
+    "versionCode": 1,
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_BOXY_TEXT_30",
+                "file": "fonts/Boxy_Text.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_BOXY_OUTLINE_30",
+                "file": "fonts/Boxy_Outline.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_BOXY_TEXT_18",
+                "file": "fonts/Boxy_Text.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_BOXY_OUTLINE_18",
+                "file": "fonts/Boxy_Outline.ttf"
+            },
+            {
+                "type": "raw",
+                "name": "IMAGE_OFFSET",
+                "file": "emptyfile"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_1",
+                "file": "images/dracula.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_2",
+                "file": "images/zombie.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_3",
+                "file": "images/reaper.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_4",
+                "file": "images/frankenstein.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+import os, sys
+import fontforge
+
+def main():
+
+    # arguments, print an example of correct usage.
+    if len(sys.argv) - 1 != 2:
+        print("********************")
+        print("Usage suggestion:")
+        print("python " + sys.argv[0] + " <in_image.pbi> <out_image.png>")
+        print("********************")
+        exit()
+
+    input_filename = sys.argv[1]
+    output_filename = sys.argv[2]
+
+    print("Convert PBI to BMP...")
+    with open(input_filename, 'rb') as afile:
+        pbi = pbi_struct()
+        afile.readinto(pbi)
+        print("Width:%d Height:%d" % (pbi.bounds_w, pbi.bounds_h))
+        
+        pixel_bytearray = bytearray(afile.read())
+        #pbi has bits in bytes reversed, so flip here
+        for (idx,abyte) in enumerate(pixel_bytearray):
+            pixel_bytearray[idx] = flip_byte(pixel_bytearray[idx])
+
+        png = Image.frombuffer('1', (pbi.bounds_w, pbi.bounds_h), 
+                buffer(pixel_bytearray), 'raw', '1', pbi.stride, 1)
+        png.save(output_filename)
+
+if __name__ == '__main__':
+    main()

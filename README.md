@@ -9,10 +9,10 @@ Zombie and Frankenstein images CC-3.0 from Vladimir Zuñiga of Foca.tk
 
 [Halloween Time on Pebble AppStore](https://apps.getpebble.com/applications/545059ca1c9d3823c0000010)
 
-![zombie](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/zombie.png)|
-![vampire](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/dracula.png)|
-![reaper](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/reaper.png)|
-![frankenstein](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/frankenstein.png)
+![zombie](https://github.com/mhungerford/pebble-halloween_time/raw/master/resources/images/zombie.png)|
+![vampire](https://github.com/mhungerford/pebble-halloween_time/raw/master/resources/images/dracula.png)|
+![reaper](https://github.com/mhungerford/pebble-halloween_time/raw/master/resources/images/reaper.png)|
+![frankenstein](https://github.com/mhungerford/pebble-halloween_time/raw/master/resources/images/frankenstein.png)
 
 Font is a modified version of Boxy-Bold from OpenGameArt.org
 Boxy-Bold.ttf

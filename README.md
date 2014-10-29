@@ -1,24 +1,22 @@
 pebble-halloween-time
 =================
 
+Happy Halloween!
 Flick your wrist to flip through fun Halloween images.
 
-[OpenGameArt.org on Pebble AppStore](https://apps.getpebble.com/applications/5349f76e085291de2e0000fa)
+Grim Reaper and Vampire images from clipartlord.com
+Zombie and Frankenstein images CC-3.0 from Vladimir Zuñiga of Foca.tk
 
-![golem](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/golem.png)|
-![demon](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/demon.png)|
-![wolf](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/wolf.png)|
-![stone-giant](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/stone-giant.png)
+[Halloween Time on Pebble AppStore](https://apps.getpebble.com/applications/545059ca1c9d3823c0000010)
+
+![zombie](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/zombie.png)|
+![vampire](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/dracula.png)|
+![reaper](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/reaper.png)|
+![frankenstein](https://github.com/mhungerford/pebble-halloween-time/raw/master/resources/images/frankenstein.png)
 
 Font is a modified version of Boxy-Bold from OpenGameArt.org
 Boxy-Bold.ttf
 License: CC0
 Author: Clint Bellanger
 http://opengameart.org/content/boxy-bold-truetype-font
-
-scarecrow.png
-License: CC0
-Author: TinySpeck & glitchthegame.com
-http://opengameart.org/content/glitch-inhabitants-and-cubimals-svg
-
 
